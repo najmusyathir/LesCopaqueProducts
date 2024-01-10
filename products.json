@@ -3,20 +3,21 @@
         {
             "id":"1",
             "prod_name":"JACKET U&I FOR KIDS",
-            "details":[
+            "desc":[
                 "Free Size",
                 "Design : U(yellow) / I(Ipin)",
                 "Suitable for size S-XL ",
                 "Jacket Material: Fleece"
             ],
             "img":[
-                "../assets/products/JACKET U&I FOR KIDS"
+                "./assets/products/JACKET U&I FOR KIDS/firstjacket.png",
+                "./assets/products/JACKET U&I FOR KIDS/secondjacket.png"
             ]
         },
         {
             "id":"2",
             "prod_name":"KALENDAR UI_KAWAN-KAWAN 2024",
-            "details":[
+            "desc":[
                 "SIZE: A5 (LANDSCAPE)",
                 "STAND - THICK HARDCOVER 1200GSM",
                 "WRAPPED W/LINNMASTER PAPER",
@@ -25,36 +26,46 @@
                 "FINISHING: DOUBLE WIRE O BINDING"
             ],
             "img":[
-                "../assets/products/KALENDAR UI_KAWAN-KAWAN 2024"
+                "./assets/products/KALENDAR U&I DAN KAWAN-KAWAN 2024/firstcalendar.png",
+                "./assets/products/KALENDAR U&I DAN KAWAN-KAWAN 2024/secondcalendar.png",
+                "./assets/products/KALENDAR U&I DAN KAWAN-KAWAN 2024/thirdcalendar.png"
             ]
         },
         {
             "id":"3",
             "prod_name":"MYSTERY FIGURINE UI",
-            "details":[
+            "desc":[
                 "1 Figurine in 1 Packet",
                 "Figurine Size : 5 cm height x 1 cm width",
                 "Material : PVC"
             ],
             "img":[
-                "../assets/products/MYSTERY FIGURINE UI"
+                "./assets/products/MYSTERY FIGURINE U&I/firstfigurine.png",
+                "./assets/products/MYSTERY FIGURINE U&I/secondfigurine.png",
+                "./assets/products/MYSTERY FIGURINE U&I/thirdfigurine.png",
+                "./assets/products/MYSTERY FIGURINE U&I/forthfigurine.png",
+                "./assets/products/MYSTERY FIGURINE U&I/fifthfigurine.png",
+                "./assets/products/MYSTERY FIGURINE U&I/sixthfigurine.png"
             ]
         },
         {
             "id":"4",
             "prod_name":"SPIN KEYCHAIN UPIN_IPIN",
-            "details":[
+            "desc":[
                 "Size : 4.5 cm (diameter)",
                 "Design : Upin & Ipin"
             ],
             "img":[
-                "../assets/products/SPIN KEYCHAIN UPIN_IPIN"
+                "./assets/products/SPIN KEYCHAIN U&I/firstkeychain.png",
+                "./assets/products/SPIN KEYCHAIN U&I/secondkeychain.png",
+                "./assets/products/SPIN KEYCHAIN U&I/thirdkeychain.png",
+                "./assets/products/SPIN KEYCHAIN U&I/forthkeychain.png"
             ]
         },
         {
             "id":"5",
-            "prod_name":"UI BUDDY UPIN_IPIN WITH BOX",
-            "details":[
+            "prod_name":"U&I BUDDY",
+            "desc":[
                 "Plushy with joints",
                 "Design : Upin & Ipin",
                 "Height : 12 inches",
@@ -63,37 +74,47 @@
                 "Box Material : thick and durable chipboard"
             ],
             "img":[
-                "../assets/products/UI BUDDY UPIN_IPIN WITH BOX"
+                "./assets/products/U&I BUDDY/firstbuddy.png",
+                "./assets/products/U&I BUDDY/secondbuddy.png",
+                "./assets/products/U&I BUDDY/thirdbuddy.png",
+                "./assets/products/U&I BUDDY/forthbuddy.png",
+                "./assets/products/U&I BUDDY/fifthbuddy.png"
             ]
         },
         {
             "id":"6",
-            "prod_name":"UPIN_IPIN HAND FAN",
-            "details":[
+            "prod_name":"U&I HAND FAN",
+            "desc":[
                 "Material : PVC",
                 "Size : 173mm (W) x 267mm (H)"
             ],
             "img":[
-                "../assets/products/UPIN_IPIN HAND FAN"
+                "./assets/products/U&I HAND FAN/fan1.png",
+                "./assets/products/U&I HAND FAN/fan2.png",
+                "./assets/products/U&I HAND FAN/fan3.png",
+                "./assets/products/U&I HAND FAN/fan4.png",
+                "./assets/products/U&I HAND FAN/fan5.png"
             ]
         },
         {
             "id":"7",
-            "prod_name":"UPIN_IPIN FOOTBALL WATERBOTTLE",
-            "details":[
+            "prod_name":"UPIN&IPIN FOOTBALL WATERBOTTLE",
+            "desc":[
                 "Design : Upin & Ipin",
                 "Material : PET BPA Free",
                 "Size : 7cm x 5cm 20.5cm 500ml",
                 "Packaging : 1 pc opp bag - no box"
             ],
             "img":[
-                "../assets/products/UPIN_IPIN FOOTBALL WATERBOTTLE"
+                "./assets/products/U&I FOOTBALL WATERBOTTLE/bottle1.png",
+                "./assets/products/U&I FOOTBALL WATERBOTTLE/bottle2.png",
+                "./assets/products/U&I FOOTBALL WATERBOTTLE/bottle3.png"
             ]
         },
         {
             "id":"8",
-            "prod_name":"UPIN_IPIN NOTEBOOK PIN PIN POM",
-            "details":[
+            "prod_name":"UPIN&IPIN NOTEBOOK PIN PIN POM",
+            "desc":[
                 "Size : A5",
                 "Material : Cover - Artcard 310GSM",
                 "Inner - Simili 80GSM",
@@ -101,7 +122,9 @@
                 "100 pages"
             ],
             "img":[
-                "../assets/products/UPIN_IPIN NOTEBOOK PIN PIN POM"
+                "./assets/products/U&I NOTEBOOK PIN PIN POM/nbook1.png",
+                "./assets/products/U&I NOTEBOOK PIN PIN POM/nbook2.png",
+                "./assets/products/U&I NOTEBOOK PIN PIN POM/nbook3.png"
             ]
         }
     ]
