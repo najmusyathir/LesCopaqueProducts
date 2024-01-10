@@ -1,34 +1,108 @@
 {
     "products":[
         {
-        "id":"1",
-        "prod_name":"JACKET U&I FOR KIDS",
-        "details":[
+            "id":"1",
+            "prod_name":"JACKET U&I FOR KIDS",
+            "details":[
                 "Free Size",
                 "Design : U(yellow) / I(Ipin)",
                 "Suitable for size S-XL ",
                 "Jacket Material: Fleece"
-        ],
-        "img":[
-            "../assets/JACKET U&I FOR KIDS"
+            ],
+            "img":[
+                "../assets/products/JACKET U&I FOR KIDS"
             ]
         },
-
         {
-        "id":"2",
-        "prod_name":"KALENDAR UI & KAWAN-KAWAN 202",
-        "details":[
-            "SIZE: A5 (LANDSCAPE)",
-            "STAND - THICK HARDCOVER 1200GSM",
-            "WRAPPED W/LINNMASTER PAPER",
-            "INNER - IVORY 300GSM",
-            "PRINT - COVER 4C 1 SIDE / INNER 4C 2 SIDE",
-            "FINISHING: DOUBLE WIRE O BINDING"
-        ],
-        "img":[
-            "../assets/JACKET U&I FOR KIDS/img"
+            "id":"2",
+            "prod_name":"KALENDAR UI_KAWAN-KAWAN 2024",
+            "details":[
+                "SIZE: A5 (LANDSCAPE)",
+                "STAND - THICK HARDCOVER 1200GSM",
+                "WRAPPED W/LINNMASTER PAPER",
+                "INNER - IVORY 300GSM",
+                "PRINT - COVER 4C 1 SIDE / INNER 4C 2 SIDE",
+                "FINISHING: DOUBLE WIRE O BINDING"
+            ],
+            "img":[
+                "../assets/products/KALENDAR UI_KAWAN-KAWAN 2024"
+            ]
+        },
+        {
+            "id":"3",
+            "prod_name":"MYSTERY FIGURINE UI",
+            "details":[
+                "1 Figurine in 1 Packet",
+                "Figurine Size : 5 cm height x 1 cm width",
+                "Material : PVC"
+            ],
+            "img":[
+                "../assets/products/MYSTERY FIGURINE UI"
+            ]
+        },
+        {
+            "id":"4",
+            "prod_name":"SPIN KEYCHAIN UPIN_IPIN",
+            "details":[
+                "Size : 4.5 cm (diameter)",
+                "Design : Upin & Ipin"
+            ],
+            "img":[
+                "../assets/products/SPIN KEYCHAIN UPIN_IPIN"
+            ]
+        },
+        {
+            "id":"5",
+            "prod_name":"UI BUDDY UPIN_IPIN WITH BOX",
+            "details":[
+                "Plushy with joints",
+                "Design : Upin & Ipin",
+                "Height : 12 inches",
+                "Material : 100% PP Cotton",
+                "Hand and Foot can move (can make it stand and sit)",
+                "Box Material : thick and durable chipboard"
+            ],
+            "img":[
+                "../assets/products/UI BUDDY UPIN_IPIN WITH BOX"
+            ]
+        },
+        {
+            "id":"6",
+            "prod_name":"UPIN_IPIN HAND FAN",
+            "details":[
+                "Material : PVC",
+                "Size : 173mm (W) x 267mm (H)"
+            ],
+            "img":[
+                "../assets/products/UPIN_IPIN HAND FAN"
+            ]
+        },
+        {
+            "id":"7",
+            "prod_name":"UPIN_IPIN FOOTBALL WATERBOTTLE",
+            "details":[
+                "Design : Upin & Ipin",
+                "Material : PET BPA Free",
+                "Size : 7cm x 5cm 20.5cm 500ml",
+                "Packaging : 1 pc opp bag - no box"
+            ],
+            "img":[
+                "../assets/products/UPIN_IPIN FOOTBALL WATERBOTTLE"
+            ]
+        },
+        {
+            "id":"8",
+            "prod_name":"UPIN_IPIN NOTEBOOK PIN PIN POM",
+            "details":[
+                "Size : A5",
+                "Material : Cover - Artcard 310GSM",
+                "Inner - Simili 80GSM",
+                "Wire - O Binding",
+                "100 pages"
+            ],
+            "img":[
+                "../assets/products/UPIN_IPIN NOTEBOOK PIN PIN POM"
             ]
         }
-
     ]
 }
