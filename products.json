@@ -1,0 +1,34 @@
+{
+    "products":[
+        {
+        "id":"1",
+        "prod_name":"JACKET U&I FOR KIDS",
+        "details":[
+                "Free Size",
+                "Design : U(yellow) / I(Ipin)",
+                "Suitable for size S-XL ",
+                "Jacket Material: Fleece"
+        ],
+        "img":[
+            "../assets/JACKET U&I FOR KIDS"
+            ]
+        },
+
+        {
+        "id":"2",
+        "prod_name":"KALENDAR UI & KAWAN-KAWAN 202",
+        "details":[
+            "SIZE: A5 (LANDSCAPE)",
+            "STAND - THICK HARDCOVER 1200GSM",
+            "WRAPPED W/LINNMASTER PAPER",
+            "INNER - IVORY 300GSM",
+            "PRINT - COVER 4C 1 SIDE / INNER 4C 2 SIDE",
+            "FINISHING: DOUBLE WIRE O BINDING"
+        ],
+        "img":[
+            "../assets/JACKET U&I FOR KIDS/img"
+            ]
+        }
+
+    ]
+}
