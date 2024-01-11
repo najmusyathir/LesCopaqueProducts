@@ -1,0 +1,13 @@
+<svg id='Chevron_Right_32' width='32' height='32' viewBox='0 0 32 32'
+    xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <rect width='32' height='32' stroke='none' fill='#000000' opacity='0' />
+
+
+    <g transform="matrix(1.17 0 0 1.17 16 16)">
+        <path
+            style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"
+            transform=" translate(-15.5, -15)"
+            d="M 12 27 L 10 27 C 9.614 27 9.262 26.777 9.096 26.428 C 8.93 26.079 8.981 25.666 9.226 25.366 L 17.708 15 L 9.226 4.633 C 8.981000000000002 4.334 8.931000000000001 3.9210000000000003 9.096 3.5709999999999997 C 9.261 3.220999999999999 9.614 3 10 3 L 12 3 C 12.3 3 12.584 3.135 12.774000000000001 3.367 L 21.774 14.367 C 22.075 14.736 22.075 15.265 21.774 15.634 L 12.774000000000001 26.634 C 12.584 26.865 12.3 27 12 27 z"
+            stroke-linecap="round" />
+    </g>
+</svg>
