@@ -30,7 +30,7 @@ fetch("./products.json")
         <h4>${product.prod_name}</h4>
         </div>
 
-        <div class="prod_details_bkg" id="details_${product.id}" >
+        <div class="prod_details_bkg" id="details${product.id}" >
         
             <div class="prod_details">
                 <img class="ic_close" src="./assets/ic_x.svg" alt="close icon" onclick="hideDetails(${product.id})">
