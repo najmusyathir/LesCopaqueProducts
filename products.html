@@ -141,6 +141,22 @@
 
     <script src="./Scripts.js"></script>
 
+    <script>
+        // JavaScript to scroll one image at a time
+        const imgCarousel = document.getElementById('imgCarousel');
+
+        imgCarousel.addEventListener('scroll', function () {
+            const scrollPosition = imgCarousel.scrollLeft;
+            const imageWidth = imgCarousel.clientWidth;
+
+            const snappedPosition = Math.round(scrollPosition / imageWidth) * imageWidth;
+            imgCarousel.scrollTo({
+                left: snappedPosition,
+                behavior: 'smooth' // You can adjust the scrolling behavior
+            });
+        });
+    </script>
+
 </body>
 
 </html>

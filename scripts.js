@@ -18,7 +18,11 @@ fetch("./products.json")
         let prodImgs = "";
         let prodDescs = "";
         for(let img of product.img){
-            prodImgs+=`<img src="${img}">`
+            prodImgs+=`
+            <div class="img_idvd">
+                <img src="${img}">
+            </div>    
+            `
         }
         for(let desc of product.desc){
             prodDescs+=`<p>${desc}</p>`
@@ -36,16 +40,12 @@ fetch("./products.json")
                 <img class="ic_close" src="./assets/ic_x.svg" alt="close icon" onclick="hideDetails(${product.id})">
 
                 <div class="img_container">
-                    <img src="./assets/ic_left.svg" class="lr_ic" onclick="scrollCarousel('left')">
-
                     <div class="img_carousel">${prodImgs}</div>
-
-                    <img src="./assets/ic_right.svg" class="lr_ic" onclick="scrollCarousel('right')">
                 </div>
 
-                <div classs="details_container">
+                <div class="details_container">
                     <h4>${product.prod_name}</h4>
-                    <div>${prodDescs}</div>
+                    ${prodDescs}
                 </div>
 
             </div>
