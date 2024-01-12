@@ -2,7 +2,7 @@
     "products":[
         {
             "id":"1",
-            "prod_name":"JACKET U&I FOR KIDS",
+            "prod_name":"JACKET UPIN&IPIN FOR KIDS",
             "desc":[
                 "Free Size",
                 "Design : U(yellow) / I(Ipin)",
@@ -16,7 +16,7 @@
         },
         {
             "id":"2",
-            "prod_name":"KALENDAR UI_KAWAN-KAWAN 2024",
+            "prod_name":"CALENDAR UPIN&IPIN DAN KAWAN-KAWAN 2024",
             "desc":[
                 "SIZE: A5 (LANDSCAPE)",
                 "STAND - THICK HARDCOVER 1200GSM",
@@ -33,7 +33,7 @@
         },
         {
             "id":"3",
-            "prod_name":"MYSTERY FIGURINE UI",
+            "prod_name":"MYSTERY FIGURINE UPIN&IPIN",
             "desc":[
                 "1 Figurine in 1 Packet",
                 "Figurine Size : 5 cm height x 1 cm width",
@@ -50,7 +50,7 @@
         },
         {
             "id":"4",
-            "prod_name":"SPIN KEYCHAIN UPIN_IPIN",
+            "prod_name":"SPIN KEYCHAIN UPIN&IPIN",
             "desc":[
                 "Size : 4.5 cm (diameter)",
                 "Design : Upin & Ipin"
@@ -64,7 +64,7 @@
         },
         {
             "id":"5",
-            "prod_name":"U&I BUDDY",
+            "prod_name":"UPIN&IPIN BUDDY",
             "desc":[
                 "Plushy with joints",
                 "Design : Upin & Ipin",
@@ -83,7 +83,7 @@
         },
         {
             "id":"6",
-            "prod_name":"U&I HAND FAN",
+            "prod_name":"UPIN&IPIN HAND FAN",
             "desc":[
                 "Material : PVC",
                 "Size : 173mm (W) x 267mm (H)"
