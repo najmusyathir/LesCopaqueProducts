@@ -25,7 +25,7 @@ fetch("./products.json")
             `
         }
         for(let desc of product.desc){
-            prodDescs+=`<p>${desc}</p>`
+            prodDescs+=`<p>- ${desc}</p>`
         }
 
         prodItem += `
